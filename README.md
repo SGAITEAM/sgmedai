@@ -29,12 +29,12 @@ Bu iki hastalığın seçilmesinin temel nedeni, hem toplum sağlığı açısı
 
 
 ## Veri Seti
-* Cilt Hastalıkları Veri Setleri: 
+### Cilt Hastalıkları Veri Setleri: 
 - [Skin diseases image dataset](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
 - [DermNet](https://dermnetnz.org/images)
 - [Dermatology Atlas](https://www.atlasdermatologico.com.br/browse.jsf)
 
-* Diyabetik Retinopati Veri Setleri: 
+### Diyabetik Retinopati Veri Setleri: 
 - [Resized 2015 & 2019 Blindness Detection Images](https://www.kaggle.com/datasets/benjaminwarner/resized-2015-2019-blindness-detection-images)
 - [Messidor-2](https://www.kaggle.com/datasets/mariaherrerot/messidor2preprocess)
 - [Aptos 2019 Gaussian Filtered](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered)
