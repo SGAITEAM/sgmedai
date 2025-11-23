@@ -1,5 +1,5 @@
 
-#  Evrişimli Sinir Ağlarıyla Diyabetik Retinopati Sınıflandırması: GPU-TPU Verimlilik Analizi ve Tanısal API Geliştirme
+#  Yapay Zekâ Tabanlı Çoklu Hastalık Teşhis ve Klinik Karar Asistanı
 
 Bu proje Sakarya İl Sağlık Müdürlüğü tarafından düzenlenen "Sağlıkta İnovasyon" yarışması için,
 **Eskişehir Sabiha Gökçen Mesleki ve Teknik Anadolu Lisesi** 
@@ -19,7 +19,7 @@ Bu iki hastalığın seçilmesinin temel nedeni, hem toplum sağlığı açısı
 
 * Kullanıcıdan alınan jpg formatın resim dosyası sunucu üzerine kaydedilmekte ve Flask API'ına tahmin için HTTP isteğinde bulunulmaktadır. 
 
-* Flask ile geliştirilen tahmin API'ı yanıt olarak 6 hastalık için yüzdesel tahmin sonuçlarını döndürmektedir.
+* Flask ile geliştirilen tahmin API'ı yanıt olarak 2 hastalığın alt sınıflarına ait yüzdesel tahmin sonuçlarını döndürmektedir.
 
 * PHP dönen tahmin sonucunu önyüze aktarmaktadır.
 
