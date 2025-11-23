@@ -1,0 +1,62 @@
+# =====================================
+# Laravel Standard Ignore Rules
+# =====================================
+public/flask/flaskenv
+public/flask/dr_model/*
+public/flask/skin_model/*
+
+/vendor/
+
+/public/flask/dr_model/
+/public/flask/skin_model/
+/public/flask/models_cache_dir/
+/public/flask/.ipynb_checkpoints/
+/public/flask/cache/
+
+node_modules/
+npm-debug.log
+yarn-error.log
+/public/hot
+/public/storage
+/storage/*.key
+/.env
+/.env.backup
+.phpunit.result.cache
+composer.lock
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+
+/public/img/preds/
+/public/img/api/
+/public/img/experts/
+/public/shell/my_model.h5
+
+
+# IDE & Editor folders
+/.idea
+/.vscode
+
+# Laravel 4
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen
+public/storage
+public/hot
+
+# Alternative public paths
+public_html/storage
+public_html/hot
+
+# Cache / Local
+/.vagrant
+.phpunit.result.cache
+
+.DS_Store
+._*
+.public/DS_Store
+.public/_*
+
+
+.DS_Store
