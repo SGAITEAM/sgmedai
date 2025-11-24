@@ -251,8 +251,6 @@
     .navbar-toggler {
         border-color: rgba(255,255,255,0.5);
     }
-    .navbar-toggler-icon {
-        filter: brightness(100);
-    }
+
 </style>
 </html>
